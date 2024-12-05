@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Экология - Забота о планете</title>
+    <title>Ecology - Caring for the Planet</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -85,97 +85,96 @@
 <body>
 
 <header>
-    <h1>Экология - Забота о планете</h1>
-    <p>Eco life</p>
+    <h1>Ecology - Caring for the Planet</h1>
+    <p>Let's make the world cleaner together!</p>
 </header>
 
 <nav>
-    <a href="#home">Главная</a>
-    <a href="#tips">Советы</a>
-    <a href="#materials">Материалы</a>
-    <a href="#global-issues">Глобальные проблемы</a>
-    <a href="#solutions">Решения</a>
-    <a href="#contact">Контакты</a>
+    <a href="#home">Home</a>
+    <a href="#tips">Tips</a>
+    <a href="#materials">Materials</a>
+    <a href="#global-issues">Global Issues</a>
+    <a href="#solutions">Solutions</a>
+    <a href="#contact">Contacts</a>
 </nav>
 
 <section id="home">
-    <h2>Добро пожаловать!</h2>
-    <p>Этот сайт создан, чтобы вы могли узнать, как заботиться о планете, сократить отходы и минимизировать негативное влияние на природу. Наша цель — показать, что даже небольшие усилия каждого из нас могут привести к большим изменениям.</p>
+    <h2>Welcome!</h2>
+    <p>This website was created to help you learn how to care for the planet, reduce waste, and minimize negative impacts on nature. Our goal is to show that even small efforts by each of us can lead to big changes.</p>
 </section>
 
 <div class="warning">
-    ВАЖНО! Никогда не выбрасывайте батарейки, аккумуляторы и старую электронику в обычный мусор. Это опасно для окружающей среды!
+    IMPORTANT! Never throw away batteries, accumulators, and old electronics in regular trash. This is dangerous for the environment!
 </div>
 
 <section id="tips">
-    <h2>Советы по защите природы</h2>
+    <h2>Tips for Protecting Nature</h2>
     <ul class="tips-list">
-        <li>Экономьте воду — выключайте кран, пока чистите зубы.</li>
-        <li>Используйте многоразовые бутылки и стаканы.</li>
-        <li>Сортируйте мусор: отделяйте пластик, стекло, металл и бумагу.</li>
-        <li>Сдавайте старую одежду и обувь на переработку.</li>
-        <li>Не покупайте товары в пластиковой упаковке, если есть альтернатива.</li>
-        <li>Поддерживайте местные экологические проекты.</li>
-        <li>Используйте энергосберегающие лампы и выключайте свет, когда выходите из комнаты.</li>
+        <li>Save water — turn off the tap while brushing your teeth.</li>
+        <li>Use reusable bottles and cups.</li>
+        <li>Sort waste: separate plastic, glass, metal, and paper.</li>
+        <li>Donate old clothes and shoes for recycling.</li>
+        <li>Avoid buying products in plastic packaging if alternatives are available.</li>
+        <li>Support local environmental projects.</li>
+        <li>Use energy-efficient bulbs and turn off lights when leaving the room.</li>
     </ul>
 </section>
 
 <section id="materials">
-    <h2>Материалы и их переработка</h2>
+    <h2>Materials and Their Recycling</h2>
     <div class="material-info">
-        <h3>Пластик</h3>
-        <p>Пластик — один из главных загрязнителей планеты. Перед сдачей на переработку убедитесь, что пластик чистый и сухой. Нельзя перерабатывать упаковку от продуктов с жиром или химикатами.</p>
+        <h3>Plastic</h3>
+        <p>Plastic is one of the main pollutants of the planet. Before recycling, ensure the plastic is clean and dry. Packaging contaminated with grease or chemicals cannot be recycled.</p>
     </div>
     <div class="material-info">
-        <h3>Стекло</h3>
-        <p>Перед сдачей стекла снимите крышки и промойте бутылки. Осколки стекла перерабатываются отдельно от целых бутылок.</p>
+        <h3>Glass</h3>
+        <p>Before recycling glass, remove caps and rinse the bottles. Glass shards are recycled separately from intact bottles.</p>
     </div>
     <div class="material-info">
-        <h3>Бумага</h3>
-        <p>Переработка бумаги экономит деревья и воду. Нельзя перерабатывать жирные или мокрые бумажные изделия.</p>
+        <h3>Paper</h3>
+        <p>Recycling paper saves trees and water. Greasy or wet paper items cannot be recycled.</p>
     </div>
     <div class="material-info">
-        <h3>Электроника</h3>
-        <p>Старую электронику нельзя выбрасывать в мусор. Найдите ближайший пункт приёма, чтобы из неё извлекли ценные металлы.</p>
+        <h3>Electronics</h3>
+        <p>Old electronics cannot be thrown away. Find the nearest collection point to extract valuable metals from them.</p>
     </div>
 </section>
 
 <section id="global-issues">
-    <h2>Глобальные экологические проблемы</h2>
-    <p>Загрязнение окружающей среды — одна из самых острых проблем XXI века. Каждый год миллионы тонн пластика попадают в океаны, нанося ущерб морским обитателям. Выбросы углекислого газа ускоряют изменения климата, приводя к увеличению температуры на Земле.</p>
+    <h2>Global Environmental Issues</h2>
+    <p>Environmental pollution is one of the most pressing problems of the 21st century. Every year, millions of tons of plastic end up in the oceans, harming marine life. Carbon dioxide emissions accelerate climate change, leading to a rise in Earth's temperature.</p>
     <ul class="tips-list">
-        <li>Каждый час в океаны попадает около 1 миллиона пластиковых бутылок.</li>
-        <li>Тропические леса сокращаются на 18 миллионов гектаров в год.</li>
-        <li>Более 1 миллиарда людей не имеют доступа к чистой питьевой воде.</li>
+        <li>Every hour, about 1 million plastic bottles are dumped into the oceans.</li>
+        <li>Tropical forests are shrinking by 18 million hectares annually.</li>
+        <li>More than 1 billion people lack access to clean drinking water.</li>
     </ul>
 </section>
 
 <section id="solutions">
-    <h2>Как мы можем помочь?</h2>
-    <p>Маленькие изменения в нашем образе жизни могут существенно повлиять на будущее планеты:</p>
+    <h2>How Can We Help?</h2>
+    <p>Small changes in our lifestyle can significantly impact the planet's future:</p>
     <ul class="tips-list">
-        <li>Уменьшите использование пластика, заменив его на многоразовые товары.</li>
-        <li>Пользуйтесь общественным транспортом или велосипедом.</li>
-        <li>Сократите потребление мяса — производство мяса вызывает значительные выбросы парниковых газов.</li>
-        <li>Сажайте деревья и поддерживайте лесовосстановительные проекты.</li>
-        <li>Поддерживайте бренды, которые используют экологичные материалы.</li>
+        <li>Reduce plastic use by replacing it with reusable items.</li>
+        <li>Use public transportation or bicycles.</li>
+        <li>Reduce meat consumption — meat production causes significant greenhouse gas emissions.</li>
+        <li>Plant trees and support reforestation projects.</li>
+        <li>Support brands that use eco-friendly materials.</li>
     </ul>
 </section>
 
 <section id="contact">
-    <h2>Контакты</h2>
-    <p>Если у вас есть вопросы или предложения, свяжитесь со мной:</p>
+    <h2>Contacts</h2>
+    <p>If you have questions or suggestions, contact me:</p>
     <ul class="contact-details">
-        <li>Телефон: +77073356921</li>
+        <li>Phone: +77073356921</li>
         <li>Instagram: <a href="https://instagram.com/Ecologic.ast.001" target="_blank">@Ecologic.ast.001</a></li>
-        <li>Имя: Абдулжаббар</li>
+        <li>Name: Abdulzhabbar</li>
     </ul>
 </section>
 
 <footer>
-    <p>&copy; 2024 Экология - Забота о планете</p>
+    <p>&copy; 2024 Ecology - Caring for the Planet</p>
 </footer>
 
 </body>
 </html>
-
